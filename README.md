@@ -20,15 +20,15 @@ Unlike online file compressors that might keep a copy of your data, **Universal 
 
 ### File Reducer GUI
 
-![File Reducer GUI](screenshots/File_Reducer_GUI.png)
+![File Reducer GUI](https://github.com/haries-dev/Universal-File-Reducer/blob/main/screenshots/File_Reducer_GUI.png)
 
 ### Before Compression
 
-![Before Compression](screenshots/Before_&_After_Result.png)
+![Before Compression](https://github.com/haries-dev/Universal-File-Reducer/blob/main/screenshots/Before_&_After_Result.png)
 
 ### After Compression
 
-![After Compression](screenshots/File_Reducer_GUI_Result.png)
+![After Compression](https://github.com/haries-dev/Universal-File-Reducer/blob/main/screenshots/File_Reducer_GUI_Result.png)
 
 ## How to Use
 
