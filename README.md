@@ -1,3 +1,5 @@
+Here's the updated **README.md** content with the new screenshot names you provided:
+
 ```markdown
 # Universal File Reducer
 
@@ -16,13 +18,17 @@ Unlike online file compressors that might keep a copy of your data, **Universal 
 
 ## Screenshots
 
+### File Reducer GUI
+
+![File Reducer GUI](screenshots/File_Reducer_GUI.png)
+
 ### Before Compression
 
-![Before Compression](screenshots/before_compression.png)
+![Before Compression](screenshots/Before_&_After_Result.png)
 
 ### After Compression
 
-![After Compression](screenshots/after_compression.png)
+![After Compression](screenshots/File_Reducer_GUI_Result.png)
 
 ## How to Use
 
@@ -72,10 +78,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any questions or feedback, feel free to contact me at [hariespalaniappan@gmail.com].
-```
-
-### Notes:
-- Make sure to add your screenshots to a folder named **screenshots** in your repository, and name them **before_compression.png** and **after_compression.png** as referenced in the README.
-- You can capture the GUI before and after compression using any screenshot tool and place them in the specified directory.
-
-Feel free to ask if you need further modifications!
